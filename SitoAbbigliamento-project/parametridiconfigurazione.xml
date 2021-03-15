@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<ParametriDiConfigurazione>
+	<nomeUtente>mattgamb@hotmail.com</nomeUtente>
+	<numeroProdottiGraficoTorta>2</numeroProdottiGraficoTorta>
+	<numeroGiorniGraficoTorta>30</numeroGiorniGraficoTorta>
+	<massimaQuantitaProdottiCarrello>60</massimaQuantitaProdottiCarrello>
+	<ipServerLog>127.0.0.1</ipServerLog>
+	<portaServerLog>4242</portaServerLog>
+	<ipServerDBMS>127.0.0.1</ipServerDBMS>
+	<portaServerDBMS>3306</portaServerDBMS>
+</ParametriDiConfigurazione>
